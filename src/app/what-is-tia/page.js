@@ -18,7 +18,7 @@ const role = {
     {
       id: 1,
       title: "Create a wallet",
-      description: "Create a wallet with celestia node.",
+      description: "Create a wallet with celestia node or see non-custodial options below.",
       url: "https://docs.celestia.org/how-to-guides/celestia-app-wallet",
     },
     {
